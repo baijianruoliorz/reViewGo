@@ -2,4 +2,7 @@ module reViewGo
 
 go 1.14
 
-require go.uber.org/ratelimit v0.2.0
+require (
+	github.com/juju/ratelimit v1.0.1
+	go.uber.org/ratelimit v0.2.0
+)
