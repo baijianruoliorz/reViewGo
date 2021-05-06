@@ -1,5 +1,6 @@
-<iframe height="700" src="https://www.yunyoujun.cn/air-conditioner/"></iframe>
-
+repo's  target:review go's grammar
+package:leetcode: using go to solve the leetcode problem 
+        main:go grammar
 
 复习GO语言的基础语法和一些开发技能
 
