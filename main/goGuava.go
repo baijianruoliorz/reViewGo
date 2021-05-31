@@ -13,9 +13,8 @@ package main
 
 import (
 	"fmt"
-	"time"
-
 	"go.uber.org/ratelimit"
+	"time"
 )
 
 func main() {
