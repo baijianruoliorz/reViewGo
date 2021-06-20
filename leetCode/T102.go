@@ -6,7 +6,7 @@ package leetCode
  */
 var res [][]int
 
-func levelOrder(root *TreeNode) [][]int {
+func levelOrders(root *TreeNode) [][]int {
 	res = [][]int{}
 	dfs(root, 0)
 	return res
